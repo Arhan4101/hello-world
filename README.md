@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Ahoy Everybody! Arhan here, I am a student at the Indian Institute Of Science Education and Research, Mohali. A wide array of activities excite me:reading, playing tennis, physics, films, quizzing and much more. In terms of my major, I intend to major in Physics, but I also think programming is a fun avenue for exploration. Given that I will be studying everything from physics to biology in my first 2 years, I wish to experiment with programming projects across all fields in these 2 years. I have only recently started programming, so you can expect some pretty basic projects for now, but I do plan on ramping up very quickly. Watch this space and, feel free to email me if you feel like you have a project I might enjoy trying.
